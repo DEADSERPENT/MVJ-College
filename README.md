@@ -73,8 +73,8 @@ For any inquiries, please contact:
 
 - SAMARTHA HV
 - Email: samarthsmf14@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/samarth-hv-176085245/)
-- Twitter: [Your Twitter Handle](https://twitter.com/SAMARTH_Hv)
+- LinkedIn:(https://www.linkedin.com/in/samarth-hv-176085245/)
+- Twitter: (https://twitter.com/SAMARTH_Hv)
 
 Feel free to customize the contact section with your own information.
 
